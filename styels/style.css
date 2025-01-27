@@ -5,24 +5,13 @@
   font-variation-settings: "wdth" 100;
 }
 
-body {
-  background: #f3f1f1;
-  /* padding: auto; */
-  width: 1550px;
-  height: 4675px;
+body{
+  background-color: #eaeaec;
 }
-
-/* main frame */
-main {
-  
-  /* margin: 0px 79px 0px 79px; */
-  gap: 80px;
-}
-
 
 /* nav */
 nav {
-  width: 1480px;
+  width: 1550px;
   height: 100px;
   display: flex;
   justify-content: space-between;
@@ -30,8 +19,8 @@ nav {
   padding-left: 160px;
   padding-right: 160px;
   padding: 0%;
-  /* margin: 0px 160px 0px 160px; */
-  margin-left: 160px;
+  margin: 0px 160px;
+  
 }
 
 nav h3 {
@@ -60,7 +49,7 @@ nav h3 {
   border-radius: 24px;
   background-color: #C6E4D6;
   /* margin: 0px 160px 80px 160px; */
-  margin-left: 80px;
+  margin-left: 147px;
   padding-left: 160px;
   padding-right: 160px;
   align-items: center;
@@ -121,7 +110,7 @@ nav h3 {
   /* gap: 32px; */
   width: 1280px;
   height: 324px;
-  margin-left: 81px;
+  margin-left: 147px;
   margin-bottom: 70px;
 }
 
@@ -157,19 +146,6 @@ nav h3 {
 }
 
 .sec2-box {
-  /* background-color: white;
-width: 310px;
-height: 244px;
-padding: 24px;
-margin-right: -19px;
-margin-top: 32px;
-box-sizing: border-box;
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-  /* gap: 24px; */
-  /* border: 1px solid ;
-border-radius: 16px; */
   background-color: #fff;
   width: 263px;
   height: 212px;
@@ -197,8 +173,8 @@ border-radius: 16px; */
   flex-direction: column;
   align-items: start;
   gap: 50px;
-  width: 1580px;
-  margin-left: 81px;
+  width: 1280px;
+  margin-left: 147px;
   box-sizing: border-box;
   padding: 0 16px;
   margin-top: 110px;
@@ -356,8 +332,8 @@ border-radius: 16px; */
   box-sizing: border-box;
   border: 1px;
   align-items: start;
-  margin-left: 81px;
-  margin-top: 80px;
+  margin-left: 147px;
+  margin-top: 40px;
   margin-bottom: 80px;
   /* align-items: start; */
 }
@@ -431,8 +407,8 @@ select {
 
 .sec5 {
   gap: 24px;
-  margin-left: 81px;
-  margin-top: 80px;
+  margin-left: 147px;
+  margin-top: 50px;
   flex-direction: column;
 
 }
@@ -571,7 +547,7 @@ select {
   gap: 22px;
   width: 1560px;
   height: 464px;
-  margin-left: 81px;
+  margin-left: 147px;
   justify-content: center;
 }
 
@@ -656,7 +632,7 @@ select {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 80px 88px;
+  margin: 100px 147px;
   border-radius: 24px;
 
 }
@@ -676,7 +652,7 @@ select {
   color: rgba(14, 14, 14, 0.7);
   text-align: center;
   max-width: 622px;
-  margin: 0;
+  
 }
 
 .sec7 div {
